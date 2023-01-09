@@ -123,6 +123,13 @@ html {
     left: 555px;  
     top: 34px;  
    }  
+   .search {  
+    width: 14px;  
+    height: 20px;  
+    position: relative;  
+    left: 1px;  
+    top: 34px;  
+   } 
    .submit_buttons {  
     display: inline-block;  
     height: 36px;  
