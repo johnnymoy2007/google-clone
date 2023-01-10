@@ -162,9 +162,12 @@ html {
    .languages {
     position: relative;
     left: 22%;
-    
-
+    text-decoration: none;  
    }
+
+   .languages a:hover {  
+    text-decoration-line: underline;  
+   } 
    /* ------- Footer ------- */  
    .left_footer {  
     float: left;  
