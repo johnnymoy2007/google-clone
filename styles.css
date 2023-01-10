@@ -120,9 +120,16 @@ html {
     width: 14px;  
     height: 20px;  
     position: relative;  
-    left: 555px;  
+    left: 546px;  
     top: 34px;  
    }  
+   .imagesearch {  
+    width: 14px;  
+    height: 20px;  
+    position: relative;  
+    left: 550px;  
+    top: 34px;  
+   } 
    .search {  
     width: 14px;  
     height: 20px;  
